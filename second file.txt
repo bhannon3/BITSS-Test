@@ -1,4 +1,6 @@
 second file made locally
 edit spelling
 
-local conflict
+
+beginning conflict editing
+
